@@ -167,10 +167,6 @@ The free GPT-4 API was incorporated from the [GPT4Free](https://github.com/xtekk
 
 <br>
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ramonvc/freegpt-webui&type=Timeline)](https://star-history.com/#ramonvc/freegpt-webui&Timeline)
-
 <br>
 
 ## Legal Notice
