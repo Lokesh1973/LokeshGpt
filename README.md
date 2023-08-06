@@ -78,7 +78,7 @@ To get started with this project, you'll need to clone the repository and have [
 Run the following command to clone the repository:
 
 ```
-git clone https://github.com/ramonvc/freegpt-webui.git
+git clone https://github.com/Lokesh1973/LokeshGpt_2.git
 ```
 
 ### Install Dependencies :wrench:
